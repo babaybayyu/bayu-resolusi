@@ -2,3 +2,4 @@ Bayu Resolusi
 - Menyelesaikan belajar laravel hingga akhir.
 - Membuat aplikasi sederhana menggunakan Laravel, misalnya aplikasi todo list atau blog.
 - Menguasai konsep routing, controller, model, dan database di Laravel.
+- membuat aplikasi yang lebih komplex
