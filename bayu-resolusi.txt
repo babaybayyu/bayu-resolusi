@@ -3,3 +3,4 @@ Bayu Resolusi
 - Membuat aplikasi sederhana menggunakan Laravel, misalnya aplikasi todo list atau blog.
 - Menguasai konsep routing, controller, model, dan database di Laravel.
 - membuat aplikasi pdf
+-membuat aplikasi pdf2
